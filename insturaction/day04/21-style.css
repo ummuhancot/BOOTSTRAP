@@ -1,0 +1,6 @@
+
+@media (min-width: 768px){
+div[class^="col"]:nth-child(2) .card{
+    transform: scale(1.05);
+}
+}
